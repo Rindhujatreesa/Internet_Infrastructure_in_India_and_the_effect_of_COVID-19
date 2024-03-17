@@ -1,7 +1,7 @@
 # Internet_Infrastructure_in_India_and_the_effect_of_COVID-19
 This repository showcases my work on Internet Infrastructural advancement during the COVID-19 era in India. It also analyzes how it affected the life of the youth in the country.
 
-> I started my Data Science journey with this project. During this project, I learned Data Manipulation and Analysis in Python using the Pandas, NumPy, Seaborn, Matplotlib, and Scikit Learn Libraries . I also mastered Hicrosoft Excel skills that helped me collect and manage data professionally.
+> I started my Data Science journey with this project. During this project, I learned Data Manipulation and Analysis in Python using the Pandas, NumPy, Seaborn, Matplotlib, and Scikit Learn Libraries . I also mastered Microsoft Excel skills that helped me collect and manage data professionally.
 
 `Today, when I look into this project, I realize how far I have come in less than two years, I am proud. I keep this project untouched as a reminder of the start of my journey, my imperfections, and my lack of experience which motivates me every day to work harder and learn deeper.`
 
